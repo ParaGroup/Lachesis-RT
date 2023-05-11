@@ -7,7 +7,7 @@ This repository contains the modified version of the Lachesis middleware aimed a
 If our work is useful to your research, please cite the following paper:
 ```
 @inproceedings{Lachesis-RT,
-  author={Frasca, Fausto and Gulisano, Vincenzo and Mencagli, Gabriele and Palyvos-Giannas, Dimitris and Torquati, Massimo},
+ author={Frasca, Fausto and Gulisano, Vincenzo and Mencagli, Gabriele and Palyvos-Giannas, Dimitris and Torquati, Massimo},
  booktitle={20th ACM International Conference on Computing Frontiers (CF)}, 
  title={Accelerating Stream Processing Queries with Congestion-aware Scheduling and Real-time Linux Threads}, 
  year={2023},
