@@ -4,7 +4,7 @@ Improved Version of Lachesis with Real-time Linux Threads and Optimized Congesti
 This repository contains the modified version of the Lachesis middleware aimed at improving OS scheduling of stream processing applications on resource-constrained devices. The repository contains the modified part of Lachesis, where the rest of the source code containing the applications, versions of the Stream Processing Engines (Storm, Flink, ...) is available at the following [link](https://github.com/dmpalyvos/lachesis).
 
 ## How to Cite
-If our work is useful for your research, please cite the following paper:
+If our work is useful to your research, please cite the following paper:
 ```
 @inproceedings{Lachesis-RT,
   author={Frasca, Fausto and Gulisano, Vincenzo and Mencagli, Gabriele and Palyvos-Giannas, Dimitris and Torquati, Massimo},
@@ -16,6 +16,7 @@ If our work is useful for your research, please cite the following paper:
  pages={XX-XX},
  doi={10.1145/3587135.3592202}
 }
+```
 
 ## Contributors
 Lachesis-RT has been developed by Fausto Frasca and [Gabriele Mencagli](mailto:gabriele.mencagli@unipi.it).
